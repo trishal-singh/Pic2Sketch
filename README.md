@@ -6,3 +6,8 @@ This program creates a sketch of the input image provided to it.
 2. Clone this repository and move into Pic2Sketch Folder.
 3. Type this command to install required libraries: pip install -r requirements.txt
 4. Type this command to run : streamlit run main.py
+
+
+
+# Output:
+![Output](Output.png)
