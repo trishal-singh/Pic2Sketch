@@ -2,5 +2,5 @@
 opencv-python
 Pillow
 streamlit
-libgl1
+
 
