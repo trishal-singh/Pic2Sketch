@@ -1,6 +1,6 @@
 ﻿numpy
-opencv-python==4.5.5.64
+opencv-python
 Pillow
-streamlit==1.8.0
+streamlit
 libgl1
 
